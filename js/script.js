@@ -33,8 +33,11 @@ while (text[k] != "\n")
  console.log (textBlock2);
  console.log (textBlock3);
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 23cd317abef8bf10548dac8204bdd28fd626e343
 //  let newDiv = document.createElement("div");
 //  newDiv.innerText = textBlock1;
 //  newDiv.classList.add('first');

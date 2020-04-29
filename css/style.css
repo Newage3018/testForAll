@@ -1,3 +1,36 @@
+<<<<<<< HEAD
 .first {
     background-color: aqua;
 }
+=======
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content-wrapper {
+    flex: 1 0 auto;
+}
+
+.first {
+    background-color: aqua;
+}
+
+.red-block {
+    width: 100%;
+    /* height: 50vh; */
+    background-color: red;
+}
+
+.footer {
+    flex: 0 0 auto;
+    background-color: green;
+}
+
+/* приветик */
+>>>>>>> 23cd317abef8bf10548dac8204bdd28fd626e343
